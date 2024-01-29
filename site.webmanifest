@@ -1,0 +1,14 @@
+{
+    
+    "name":"Grocery Tracker",
+    
+    "short_name":"Grocery Tracker",
+    
+    "icons":
+    [{"src":"/android-chrome-192x192.png","sizes":"192x192","type":"image/png"},
+    {"src":"/android-chrome-512x512.png","sizes":"512x512","type":"image/png"}],
+
+    "theme_color":"rgb(241, 235, 116);",
+    "background_color":"#ffffff",
+    "display":"standalone"
+}
